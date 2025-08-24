@@ -24,10 +24,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lionnblaze2/lionnblaze2/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Eu programo com</h2>
 
 ###
@@ -45,5 +41,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Lionnblaze2/Lionnblaze2/output/snake.svg" alt="Snake animation" />
 
 ###
