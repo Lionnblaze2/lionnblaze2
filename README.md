@@ -24,6 +24,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/lionnblaze2/lionnblaze2/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h2 align="left">Eu programo com</h2>
 
 ###
