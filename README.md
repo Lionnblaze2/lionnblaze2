@@ -43,3 +43,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/lionnblaze2/lionnblaze2/output/snake.svg" alt="Snake animation" />
+
+###
