@@ -1,4 +1,4 @@
-name: main
+name: snake
 
 on: [push]
 
@@ -117,10 +117,10 @@ jobs:
           path: packages/demo/dist
 
       - uses: actions/deploy-pages@v4
-        if: success() && github.ref == 'refs/heads/main'
+        if: success() && github.ref == 'refs/heads/snake'
 
       - run: bunx wrangler deploy
-        if: success() && github.ref == 'refs/heads/main'
+        if: success() && github.ref == 'refs/heads/snake'
         working-directory: packages/github-user-contribution-service
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
