@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Tenho experiência em várias áreas de tecnologia... Comecei a mexer com C++ em 2022, comecei a estudar Eletrônica em 2023 e comecei a aprender Java e Python em 2024. Mais recentemente, em 2025, comecei a me aprofundar em JavaScript, HTML e CSS, sempre tentando entender cada linguagem e colocar meus conhecimentos em prática.<br><br>- Objetivo: Evoluir e desenvolver - minhas habilidades na tecnologia, aprendendo cada dia mais.<br>- Curiosidade: No futuro, quero também seguir uma carreira como roteirista. Gosto de imaginar e escrever essas histórias, mesmo que muitas fiquem inacabadas. Elas têm muito potencial e podem se tornar realmente boas. <br><br>Contato: soulionncontato@gmail.com</p>
+<p align="left">Tenho experiência em várias áreas de tecnologia... Comecei a mexer com C++ em 2022, comecei a estudar Eletrônica em 2023 e comecei a aprender Java e Python em 2024. Mais recentemente, em 2025, comecei a me aprofundar em JavaScript, HTML e CSS, sempre tentando entender cada linguagem e colocar meus conhecimentos em prática.<br><br>- Curiosidade: No futuro, quero também seguir uma carreira como roteirista. Gosto de imaginar e escrever essas histórias, mesmo que muitas fiquem inacabadas. Elas têm muito potencial e podem se tornar realmente boas. <br><br>Contato: soulionncontato@gmail.com</p>
 
 ###
 
