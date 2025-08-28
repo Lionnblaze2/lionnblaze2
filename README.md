@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, pessoal! Sou conhecido como Lionnblaze2, estudante de Eletrônica e interessado em tecnologia. Atualmente moro no Brasil e estou iniciando minha jornada no desenvolvimento de software, buscando aprender e evoluir de forma consistente.</p>
+<p align="left">Olá, pessoal! Sou conhecido como Lionnblaze2, estudante de Eletrônica e interessado em tecnologia. Atualmente moro no Brasil e estou "iniciando" minha jornada no desenvolvimento de software, buscando sempre aprender e evoluir de forma contínua.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Criando e explorando desde 2022<br>- Estudante dedicado de Eletrônica, sempre em busca de novos aprendizados<br>- Objetivo: crescer passo a passo no mundo da tecnologia<br>- Curiosidade: gosto de inventar histórias, mesmo que muitas fiquem inacabadas<br>- Contato: soulionncontato@gmail.com</p>
+<p align="left">Tenho experiência em várias áreas de tecnologia... Comecei a mexer com C++ em 2022, comecei a estudar Eletrônica em 2023 e comecei a aprender Java e Python em 2024. Mais recentemente, em 2025, comecei a me aprofundar em JavaScript, HTML e CSS, sempre tentando entender cada linguagem e colocar meus conhecimentos em prática.<br><br>- Objetivo: Evoluir e desenvolver - minhas habilidades na tecnologia, aprendendo cada dia mais.<br>- Curiosidade: No futuro, quero também seguir uma carreira como roteirista. Gosto de imaginar e escrever essas histórias, mesmo que muitas fiquem inacabadas. Elas têm muito potencial e podem se tornar realmente boas. <br><br>Contato: soulionncontato@gmail.com</p>
 
 ###
 
