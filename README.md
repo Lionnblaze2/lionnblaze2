@@ -1,8 +1,8 @@
-<h1 align="left">Olá 👋, tudo bem?</h1>
+<h2 align="left">Apresentação</h2>
 
 ###
 
-<p align="left">Conhecido como Lionnblaze2, sou estudante de Eletrônica, "desenvolvedor" iniciante e configurador. Atualmente, estou morando no Brasil.</p>
+<p align="left">Olá, pessoal! Sou conhecido como Lionnblaze2, estudante de Eletrônica e interessado em tecnologia. Atualmente moro no Brasil e estou iniciando minha jornada no desenvolvimento de software, buscando aprender e evoluir de forma consistente.</p>
 
 ###
 
@@ -10,21 +10,11 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2022<br>📚 Atualmente estou aprendendo Eletrônica, estou 201% focado nisso.<br>🎯 Objetivos: Talvez dominar a arte de apertar parafuso sem deixar a peça cair no chão?<br>🎲 Curiosidade divertida: Adoro criar histórias, mas quase nunca termino de escrevê-las.<br>📫 Como me contatar? Envie um e-mail para soulionncontato@gmail.com</p>
+<p align="left">- Criando e explorando desde 2022<br>- Estudante dedicado de Eletrônica, sempre em busca de novos aprendizados<br>- Objetivo: crescer passo a passo no mundo da tecnologia<br>- Curiosidade: gosto de inventar histórias, mesmo que muitas fiquem inacabadas<br>- Contato: soulionncontato@gmail.com</p>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=F48BA1&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-</div>
-
-###
-
-<h2 align="left">Eu programo com</h2>
+<h2 align="left">Eu programo com:</h2>
 
 ###
 
